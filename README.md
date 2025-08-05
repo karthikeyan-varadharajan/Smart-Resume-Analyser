@@ -37,6 +37,7 @@ cd smart-resume-analyzer
 
 pip install -r requirements.txt
 
-3. Run the App
+**3. Run the App**
 
 streamlit run app.py
+**LIVE LINK** (https://smart-resume-analyze.streamlit.app/)
